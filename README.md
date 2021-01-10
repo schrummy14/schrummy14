@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: mschramm@iastate.edu
 
-[![schrummy14's github stats](https://github-readme-stats.vercel.app/api?username=schrummy14)](https://github.com/anuraghazra/github-readme-stats)
+[![schrummy14's github stats](https://github-readme-stats.vercel.app/api?username=schrummy14&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
