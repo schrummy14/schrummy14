@@ -4,7 +4,8 @@
 
 - 💬 Ask me about the Discrete Element Method and how to couple it with Computational Fluid Dynamics
 
-- 📫 How to reach me: mschramm@iastate.edu
+- 📫 How to reach me: matthewwschramm@gmail.com
+                      https://www.withschramm.com/
 
 [![schrummy14's github stats](https://github-readme-stats.vercel.app/api?username=schrummy14&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
