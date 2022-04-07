@@ -7,7 +7,7 @@
 - 📫 How to reach me: matthewwschramm@gmail.com
                       https://www.withschramm.com/
 
-[![schrummy14's github stats](https://github-readme-stats.vercel.app/api?username=schrummy14&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![schrummy14's github stats](https://github-readme-stats.vercel.app/api?username=schrummy14&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
